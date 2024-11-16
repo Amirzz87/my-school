@@ -1,0 +1,18 @@
+.product{
+    border-radius: 5px;
+    border: 5px solid yellow;
+    width: 200px;
+    padding: 5px;
+animation: amir 10s;
+}
+@keyframes amir {
+    0%{background-color: aqua}
+    50%{background-color: chartreuse}
+    100%{background-color: darkmagenta}
+}
+.picture{
+    border-radius: 5px;
+}
+.info{
+    color: blue;
+}
