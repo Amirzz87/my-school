@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="style%20css.css">
+</head>
+<body dir="rtl">
+<div class="product">
+    <img class="picture" src="img%20git%20hub/IMG-20241116-WA000444.jpg" alt="" width="200" height="350">
+  <h4>امیر محمد زندیان <br>  شبکه 11  </h4>
+  <p>lorem ipsum <span class="info">dolar</span> sit met.</p>
+</div>
+</body>
+</html>
